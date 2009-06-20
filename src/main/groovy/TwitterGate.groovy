@@ -1,4 +1,4 @@
-import com.github.twitterdesktop.stats.linux.FirefoxStatsimport twitter4j.Twitter
+/** * Reference: http://yusuke.homeip.net/twitter4j/en/code-examples.html#oauth */import com.github.twitterdesktop.stats.linux.FirefoxStatsimport twitter4j.Twitter
 
 println "TwitterGate"
 
